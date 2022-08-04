@@ -6,5 +6,6 @@ int main(int argc,const char * argv[])
     printf("liuhuan\n");
     printf("lh\n");
     printf("********\n");
+    printf("window\n");
     return 0;
 }
